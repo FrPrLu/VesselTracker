@@ -15,6 +15,9 @@
 	4. Moves all the processed *.AIS* files to the old folder.
 	5. Saves one file with all the messages with the respective IMO number appended.
 
+
+Teste1
+
 	
 
 
